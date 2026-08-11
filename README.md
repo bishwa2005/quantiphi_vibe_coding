@@ -17,13 +17,15 @@ The main catalog displays products with their category, name, price, and rating.
 
 ### Filtered Products
 
-![Stockroom Filtered Products](./screenshots/filtered-products.png)
+<img width="1287" height="583" alt="{CB7874E5-8FFE-4C4D-A88D-3253F7C90E05}" src="https://github.com/user-attachments/assets/73fd6ac7-fff4-448f-83e7-b5d3b0ac9cb6" />
+
 
 Multiple filters can be applied simultaneously. The backend returns only products satisfying **all active criteria**.
 
 ### No Matching Products
 
-![Stockroom Empty State](./screenshots/no-results.png)
+<img width="1294" height="590" alt="{E41FD016-033E-4E6A-87C4-80CAB43A4DD4}" src="https://github.com/user-attachments/assets/db92377f-0201-4cd0-b64a-397a72ab5b40" />
+
 
 When no products satisfy the selected filters, the application displays a dedicated empty state with an option to reset the filters.
 
