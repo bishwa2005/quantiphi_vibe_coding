@@ -29,14 +29,7 @@ Multiple filters can be applied simultaneously. The backend returns only product
 
 When no products satisfy the selected filters, the application displays a dedicated empty state with an option to reset the filters.
 
-> **Note:** Add your screenshots to the `screenshots/` directory using these filenames:
->
-> ```text
-> screenshots/
-> ├── catalog.png
-> ├── filtered-products.png
-> └── no-results.png
-> ```
+
 
 ---
 
